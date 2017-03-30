@@ -19,9 +19,13 @@ Normal big numbers
 Input: 6
 Output: VI
 
-Numbers that subtract numerals (check that same numeral does not repeat > 3 times)
-Input: 4, 190
-Output: IV, CXC
+Handle 4
+Input: 4,
+Output: IV,
+
+Handle 9
+190
+CXC
 
 > 4000
 Input: 4000
